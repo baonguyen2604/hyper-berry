@@ -1,0 +1,5 @@
+.vscode/
+builds/objects/*
+*.elf
+*.img
+*.asm
